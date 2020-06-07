@@ -1,0 +1,14 @@
+/* By Elizabeth Kuleshova */
+
+html { 
+  background: url('https://i.pinimg.com/originals/1d/13/89/1d1389d0f31a0f01de9347931ec742a8.jpg') no-repeat center center fixed; 
+  background-size: cover; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover;  
+  margin:0;
+  padding:0;
+  position: fixed;
+} 
+
+/* All credit to the author of the amazing fanart <3 */  
